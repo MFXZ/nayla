@@ -31,7 +31,7 @@ global.APIKeys = { // Apikey lu di sini
 
 // Sticker Watermark
 global.packname = 'Created By'
-global.author = 'MFC BOT'
+global.author = 'MFC - BOT'
 
 global.multiplier = 50 // ini butuh berapa xp buat levelup 
 
